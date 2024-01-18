@@ -8,7 +8,8 @@ Minha build Pwnagotchi com o espírito Brasileiro da gambiarra -> https://pwnago
 - Raspberry Pi Zero 2 W
 	![PI02W](blob:https://web.whatsapp.com/2c75105c-9086-47cd-b780-d7bd1a232aad)
 - Display E-ink WeAct Studio 250x122
-	
+	![WhatsApp Image 2024-01-18 at 13 28 20 (1)](https://github.com/gomesgustavoo/Gustavinhogotchi/assets/126426037/b7336b82-dda0-4d26-bd4d-3e15d97f7f9a)
+
 - Sd Card Kodak Genérico
 	
 
