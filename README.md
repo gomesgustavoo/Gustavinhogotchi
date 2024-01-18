@@ -6,12 +6,11 @@ Minha build Pwnagotchi com o espírito Brasileiro da gambiarra -> https://pwnago
 
 ## Meu Hardware
 - Raspberry Pi Zero 2 W
-	- Aliexpress | eu que soldei os 40 GPIO inclusive por um tempo eu achei que o problema era algum curto pela solda mal feita kkkk mas não.![[Pasted image 20240118132913.png]]
+	
 - Display E-ink WeAct Studio 250x122
-	- Aliexpress![[Pasted image 20240118132857.png]]
-	- ![[Pasted image 20240118132837.png]]
+	
 - Sd Card Kodak Genérico
-	- Aliexpress ![[Pasted image 20240118132935.png]]
+	
 
 ## Problemas:
 **Cada coisa que eu consigo fazer eu descubro 3 que dão errado**
