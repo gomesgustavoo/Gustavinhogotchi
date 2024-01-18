@@ -6,7 +6,7 @@ Minha build Pwnagotchi com o espírito Brasileiro da gambiarra -> https://pwnago
 
 ## Meu Hardware
 - Raspberry Pi Zero 2 W
-	
+	![PI02W](Pasted image 20240118132913.png)
 - Display E-ink WeAct Studio 250x122
 	
 - Sd Card Kodak Genérico
